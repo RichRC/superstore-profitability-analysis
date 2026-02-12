@@ -1,7 +1,5 @@
 # Superstore Profitability & Strategic Analysis
 
-![Dashboard Overview](Richard-Rivera-Cartagena-Superstore-Analysis-Project.png)
-
 **Author:** Richard Rivera Cartagena  
 **Completion Date:** December 2025  
 **Tools:** Tableau Desktop/Public, Excel  
