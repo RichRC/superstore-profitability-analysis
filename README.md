@@ -307,13 +307,10 @@ This project showcases proficiency in:
 
 ## 📧 Contact
 
-**Richard Rivera Cartagena**
+Richard Rivera Cartagena
+[LinkedIn](https://www.linkedin.com/in/richard-rivera-cartagena/) · [GitHub](https://github.com/RichRC)
 
 I'm actively seeking opportunities in data analytics, business intelligence, and strategic consulting. If you'd like to discuss this project or potential opportunities, please reach out!
-
-- **LinkedIn:** [Add your LinkedIn URL]
-- **Email:** [Add your email]
-- **Portfolio:** [Add your portfolio website if applicable]
 
 ---
 
